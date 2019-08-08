@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'django_filters',
-    'cloudinary ',
+    'cloudinary',
     'accounts.apps.AccountsConfig',
     'libros',
     'categorias',
@@ -179,5 +179,5 @@ cloudinary.config(
   api_secret = "H0A0VppsP1Khcnc9hrfWApggBzo" 
 )
 
-import django_heroku
-django_heroku.settings(locals())
+# import django_heroku
+# django_heroku.settings(locals())
