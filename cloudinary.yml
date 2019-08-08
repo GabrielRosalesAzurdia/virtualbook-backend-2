@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: dhgug6x1k
+  api_key: '212248296816268'
+  api_secret: H0A0VppsP1Khcnc9hrfWApggBzo
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: dhgug6x1k
+  api_key: '212248296816268'
+  api_secret: H0A0VppsP1Khcnc9hrfWApggBzo
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: dhgug6x1k
+  api_key: '212248296816268'
+  api_secret: H0A0VppsP1Khcnc9hrfWApggBzo
+  enhance_image_tag: true
+  static_file_support: false
